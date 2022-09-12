@@ -1,4 +1,4 @@
-# Desafio Final - BancoDeDados
+# Desafio Final - Banco De Dados Relacionais e Não Relacionais
 ### O papel dos Bancos de Dados Relacionais (SQL) e Não Relacionais (NoSQL) no contexto de um Engenheiro de Dados.
 
 O trabalho do Engenheiro de Dados consiste em saber lidar bem com a flexibilidade de lidar com um Banco de Dados Relacional (SQL) e não relacional (NoSQL) em função de como os dados estão estruturados e modelados. O Engenheiro de Dados precisa entender o ambiente de dados ao qual está inserido para que consiga escolher as melhores ferramentas dentro do âmbito dos bancos de dadosrelacionais e não relacionais , de modo à trabalhar da melhor maneira possível com esses dados. Tem também que ter a visão adequada de qual ar quitetura de dados irá utilizar em conjunto com o tipo de banco que irá optar, definir qual as chaves e quais a consultas.
